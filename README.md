@@ -45,10 +45,10 @@ This project analyzes Superstore sales data to identify sales trends, profitabil
 SQL Query
 
 [SQL Query 1]
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/75c6a4ef-38f7-404c-8346-194c7858bf61" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ddaf2dc8-4277-4925-bf38-792f59164392" />
 
 [SQL Query 2]
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/874c62e1-5bab-475f-babc-3721eb6791ae" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/499b8ced-5f89-4db1-aa40-8b88c78cbebc" />
 
 [SQL Query 3]
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/25219074-bb36-4e3e-866b-cf6f64ee377c" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/dea8c201-c7c8-4fe7-8192-19ce2f86afa3" />
