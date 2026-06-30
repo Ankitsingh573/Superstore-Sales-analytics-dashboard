@@ -40,7 +40,7 @@ This project analyzes Superstore sales data to identify sales trends, profitabil
 - Business Intelligence
 
 ## Dashboard Preview
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9159ea95-1751-4fbe-838e-b914817e0eb4" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/94e57759-7140-4bef-8234-b58242c5c407" />
 
 SQL Query
 
